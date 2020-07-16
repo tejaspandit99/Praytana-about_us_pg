@@ -1,0 +1,166 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: white;
+	background-size:cover;
+	font-family:gabriel;
+}
+
+.title
+{   
+	text-align:center;
+	padding:50px 0 20px;
+}
+.title h1
+{
+	margin: 0;
+	padding: 0;
+	color:#f2f2f2;
+	text-transform:uppercase;
+	font-size:36px;
+}
+.container_aboutus
+{
+	opacity:0.7;
+	width:90%;
+	height:400px;
+        background-color:#eeeeee;
+	margin:0 auto;
+	border : 2px solid #fff;
+	box-shadow: 0 15px 40px rgba(0,0,0,.5);
+	color:black;
+}
+.container_aboutus {
+	margin: 5;
+	
+}
+
+.logo_ab{
+	float:center;
+}
+
+.heading {
+	align-items: right;
+	   max-width: 500%; /* Maximum width */
+	 height: 100px;  
+	   margin: 0 auto; /* Center it */
+	  /* background:  #777575;*/
+	  background:  whitesmoke;
+	   text-decoration-color: black;
+	  
+	 }
+	.heading .font{
+		margin:0px;
+		text-align: center;
+		color:Black;
+	 font-size: 50px;
+	 font-family: 'Berkshire Swash';
+	}
+
+	 .container {
+		position: relative;
+		max-width: 800px; /* Maximum width */
+		margin: 0 auto; /* Center it */
+		background-color: rgb(241, 173, 154);
+    
+	  }
+	  
+	  .container .content {
+		position: absolute; /* Position the background text */
+		bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+		background: rgb(0, 0, 0); /* Fallback color */
+		background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+		color: #f1f1f1; /* Grey text */
+		width: 100%; /* Full width */
+		padding: 20px; /* Some padding */
+	  }
+
+
+
+		.mission {
+	position: relative;
+	max-width: 800px; /* Maximum width */
+	background:#f2f2f2;
+	text-decoration-color: black;
+	margin: 0 auto; /* Center it */
+	
+	/*top:0;
+	bottom: 0;
+	left: 1000px;
+	right: 0px;*/
+  }
+
+
+
+   .content{
+	margin:0px;
+	text-align: center;
+	color:rgb(19, 18, 18);
+ font-size: 20px;
+}
+
+
+  .AboutusBg{
+ align-items: right;
+	position: relative;
+	max-width: 100%; /* Maximum width */
+	margin-left: 0; /* Center it */
+	height: 500px;
+	color: black;
+	font-family: 'Barrio';
+	text-align: center;
+	font-size: 40px;
+	background:#c5dbf2;
+}
+
+.image {
+	position: relative;
+	max-width: 900px; /* Maximum width */
+	margin: 0 auto; /* Center it */
+	background-color:white;
+ }
+ 
+  .contbg {
+	position: relative;
+	max-width: 100%; /* Maximum width */
+	margin: 0 auto; /* Center it */
+	background-color:white;
+	color: black;
+	font-family: 'Baumans';
+	/*font-family: 'Buenard';
+	font-size: 22px;
+*/
+	font-size: 20px;
+	
+  }
+  #abc{
+	background: #c5dbf2
+  }
+
+  #a, #g {
+    background-color:#f2f2f2;
+    color: black;
+	list-style: none;
+	font-family: 'Baumans';
+}
+
+.pic {
+    border: 3px solid black;
+	float:left
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 5%;
+  list-style: none;
+}
+
+
+
+
+
+
+
+
+  
