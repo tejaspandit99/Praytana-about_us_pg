@@ -19,7 +19,7 @@ body{
 	text-transform:uppercase;
 	font-size:36px;
 }
-.container_aboutus
+/*.container_aboutus
 {
 	opacity:0.7;
 	width:90%;
@@ -45,7 +45,7 @@ body{
 	 height: 100px;  
 	   margin: 0 auto; /* Center it */
 	  /* background:  #777575;*/
-	  background:  whitesmoke;
+/*	  background:  whitesmoke;
 	   text-decoration-color: black;
 	  
 	 }
@@ -60,35 +60,35 @@ body{
 	 .container {
 		position: relative;
 		max-width: 800px; /* Maximum width */
-		margin: 0 auto; /* Center it */
-		background-color: rgb(241, 173, 154);
+	/*	margin: 0 auto; /* Center it */
+		/*background-color: rgb(241, 173, 154);
     
 	  }
 	  
 	  .container .content {
 		position: absolute; /* Position the background text */
-		bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-		background: rgb(0, 0, 0); /* Fallback color */
-		background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-		color: #f1f1f1; /* Grey text */
-		width: 100%; /* Full width */
-		padding: 20px; /* Some padding */
-	  }
+	/*	bottom: 0; /* At the bottom. Use top:0 to append it to the top 
+		background: rgb(0, 0, 0); /* Fallback color 
+		background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity 
+		color: #f1f1f1; /* Grey text 
+		width: 100%; /* Full width 
+		padding: 20px; /* Some padding 
+	  }*/
 
 
 
-		.mission {
+	/*	.mission {
 	position: relative;
 	max-width: 800px; /* Maximum width */
-	background:#f2f2f2;
+	/*background:#f2f2f2;
 	text-decoration-color: black;
 	margin: 0 auto; /* Center it */
 	
 	/*top:0;
 	bottom: 0;
 	left: 1000px;
-	right: 0px;*/
-  }
+	right: 0px;
+  } */
 
 
 
@@ -107,6 +107,7 @@ body{
 	margin-left: 0; /* Center it */
 	height: 500px;
 	color: white;
+	
 	font-family: 'Barrio';
 	text-align: center;
 	font-size: 40px;
