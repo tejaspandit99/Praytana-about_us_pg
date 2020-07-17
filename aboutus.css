@@ -108,10 +108,10 @@ body{
 	height: 500px;
 	color: white;
 	
-	font-family: 'Barrio';
+	font-family: 'Basic';
 	text-align: center;
 	font-size: 40px;
-	background: #563f46;
+	background: #000033;
 
 	/*background:#000033;*/
 }
@@ -137,7 +137,7 @@ body{
 	
   }
   #abc{
-	background: #563f46
+	background:#000033
   }
 
   #a, #g {
