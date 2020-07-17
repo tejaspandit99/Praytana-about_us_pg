@@ -111,7 +111,9 @@ body{
 	font-family: 'Barrio';
 	text-align: center;
 	font-size: 40px;
-	background:#000033;
+	background:#333945;
+
+	/*background:#000033;*/
 }
 
 .image {
@@ -127,11 +129,11 @@ body{
 	margin: 0 auto; /* Center it */
 	background-color:white;
 	color: black;
-	font-family: 'Angkor';
+	font-family: 'Lora';
 	/*font-family: 'Buenard';
 	font-size: 22px;
 */
-	font-size: 20px;
+	font-size: 25px;
 	
   }
   #abc{
