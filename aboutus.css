@@ -111,7 +111,7 @@ body{
 	font-family: 'Barrio';
 	text-align: center;
 	font-size: 40px;
-	background:#333945;
+	background: #563f46;
 
 	/*background:#000033;*/
 }
@@ -128,7 +128,7 @@ body{
 	max-width: 100%; /* Maximum width */
 	margin: 0 auto; /* Center it */
 	background-color:white;
-	color: black;
+	color: #50394c;
 	font-family: 'Consolof';
 	/*font-family: 'Buenard';
 	font-size: 22px;
@@ -167,3 +167,4 @@ body{
 
 
 font-family: 'Lora'
+background:#333945
